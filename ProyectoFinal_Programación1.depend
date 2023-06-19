@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621524215 source:c:\users\kenneth rodrigo\downloads\crearunalibreria\proyectofinal_programación1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1621781660 source:c:\users\kenneth rodrigo\downloads\proyectofinalprogramación\proyectofinal_programación1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
